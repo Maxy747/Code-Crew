@@ -5,7 +5,7 @@ import pyttsx3
 import time
 
 # Replace with your actual Gemini API key
-your_api_key = "AIzaSyB05rK4s92VBjOKRbmvqXFy9Y4QT3bQUlg"  # Replace with your actual key
+your_api_key = "YOUR GEMINI API HERE"  # Replace with your actual key
 
 genai.configure(api_key=your_api_key)
 
