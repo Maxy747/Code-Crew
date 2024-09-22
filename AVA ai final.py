@@ -4,7 +4,7 @@ import pywhatkit as kit
 import speech_recognition as sr
 
 # Configure the API key directly (not recommended for production, but useful for testing)
-genai.configure(api_key="AIzaSyDfdcqenqguK8NV6gYa-Tn_gEFW0uy2nCg")
+genai.configure(api_key="YOUR GEMINI API HERE")
 
 # Create the model
 generation_config = {
